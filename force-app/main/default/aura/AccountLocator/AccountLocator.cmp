@@ -15,5 +15,10 @@
                               padding="around-small">
             <c:AccountMap/>
         </lightning:layoutItem>
+        <lightning:layoutItem size="12"
+        mediumDeviceSize="12"
+        padding="around-small">
+            <c:SendResultsToEmail/>
+        </lightning:layoutItem>
     </lightning:layout>
 </aura:component>
